@@ -1,0 +1,12 @@
+{
+  "name": "DevBorne",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Igor Vieira <igor.p.r.vieira@gmail.com> (https://igorprvieira.com.br/)",
+  "license": "ISC"
+}
